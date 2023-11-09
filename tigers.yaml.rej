@@ -1,0 +1,9 @@
+diff a/tigers.yaml b/tigers.yaml	(rejected hunks)
+@@ -6,4 +6,4 @@
+ - Linda
+ - William
+ - David
+-- Calman
+\ No newline at end of file
++- George
+\ No newline at end of file
