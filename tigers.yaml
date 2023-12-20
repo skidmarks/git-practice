@@ -1,12 +1,15 @@
 team: Tigers
 
-manager: Donald
+manager: Thanos
+
+coach: Ronan
 
 members:
 - Linda
 - William
 - David
 - George
-
-fetch: this
-new: branch
+- Tyler
+- Kim
+- Gamora
+- Nebula
